@@ -36,22 +36,27 @@ Especificos:
 
 Marco teorico:
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-3/blob/main/Imagenes/WhatsApp-Image-2021-11-29-at-17.48.07-_1_.png)
 
-![](
+Ejercicios
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-3/blob/main/Imagenes/Análisis%20LAB3_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-3/blob/main/Imagenes/Análisis%20LAB3_page-0002.jpg)
 
-![](
+Simuladores:
 
-![](
+- Multisism
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-3/blob/main/Imagenes/MULTISISM.png)
 
-![](
+- Tinkercad
 
+![](https://github.com/diego333jose/Informe-Laboratorio-3/blob/main/Imagenes/TINKERCAD.png)
+
+- Analisis de datos
+
+![](https://github.com/diego333jose/Informe-Laboratorio-3/blob/main/Imagenes/Análisis%20LAB3_page-0003.jpg)
 
 Conclusiones:
 
