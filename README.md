@@ -18,7 +18,7 @@ INTEGRANTES:
 
 • Alvarado Nevárez Diego José
 
-**PRÁCTICA No. 2 Analisis de Nodos**
+**PRÁCTICA No. 3 Analisis de Nodos**
 
 Objetivos:
 
